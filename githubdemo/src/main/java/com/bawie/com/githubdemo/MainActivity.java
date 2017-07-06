@@ -1,7 +1,7 @@
 package com.bawie.com.githubdemo;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("郭龙刚。。。");
         Log.i("MainActivity","ssssss");
         //sdfghjkl;wsdfghjkl;
+
+        //svbank?
     }
 }
