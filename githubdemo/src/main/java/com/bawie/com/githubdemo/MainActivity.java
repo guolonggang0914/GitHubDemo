@@ -22,5 +22,6 @@ public class MainActivity extends AppCompatActivity {
 //        asdfn bfwe
 
         //1334567
+        System.out.println("lifeiyu");
     }
 }
