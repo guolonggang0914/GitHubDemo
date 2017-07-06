@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("郭龙刚。。。");
         Log.i("MainActivity","ssssss");
+        //sdfghjkl;wsdfghjkl;
     }
 }
