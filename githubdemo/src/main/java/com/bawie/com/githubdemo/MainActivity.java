@@ -23,9 +23,5 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("ggioekkps");
         System.out.println("ggioekkps");
         System.out.println("ggioekkps");
-        System.out.println("信息");
-        System.out.println("信息");
-        System.out.println("信息");
-
     }
 }
